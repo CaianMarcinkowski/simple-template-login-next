@@ -1,0 +1,14 @@
+.card-mid {
+    display: contents;
+    height: 100px;
+    width: 100px;
+    color: aliceblue;
+}
+
+@media (min-width: 768px) {
+    .container {
+        color: #fff;
+        width: 100%;
+        height: 100%;
+    }
+}
